@@ -1,3 +1,4 @@
+<div style="background-color: #F4F6F8; padding: 20px; border-radius: 10px;">
 # Hello, I'm MEET! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and enjoy working with various technologies. Here's a bit about me:
