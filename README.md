@@ -23,4 +23,5 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 Feel free to reach out and connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-modi-804087290/)
+</div>
 
