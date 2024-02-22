@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 
 - 🖥️ I primarily work on Linux-based systems.
 - 💻 I'm proficient in Python, C, C++, and Java programming languages.
-- 🧠 I have experience with PyTorch for machine learning and deep learning projects.
 
 ## 🔧 Tools and Technologies
 
