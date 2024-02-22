@@ -13,7 +13,10 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 - ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+## 📊 Language Usage Meter
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEET2231&layout=compact)
 
 ## 📫 Connect with Me
 
