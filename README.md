@@ -1,4 +1,3 @@
-
 # Hello, I'm MEET! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and enjoy working with various technologies. Here's a bit about me:
@@ -16,18 +15,16 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 
  ## Contributions and Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEET2231&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MEET2231&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 Language Usage Meter
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEET2231&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEET2231&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 
 Feel free to reach out and connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-modi-804087290/)
-
-
